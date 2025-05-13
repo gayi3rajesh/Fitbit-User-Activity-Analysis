@@ -26,7 +26,7 @@ The dataset consists of personal fitness tracker data for 35 Fitbit users, inclu
 - **Visualization**: Created dynamic charts to display trends over Calories Burned by Activity Level
 
 ### Project Report:
-View the detailed analysis and visualizations in the [HTML R Markdown Report](daily_act_markdown.html).
+View the detailed analysis and visualizations in the
 
 
 
